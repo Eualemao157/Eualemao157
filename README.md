@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Luis!
 
-<!--
-**Eualemao157/Eualemao157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 📍 18 anos
+- 💻 Principais habilidades: **JavaScript**, **HTML**, **CSS**
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas na área de desenvolvimento web!
+
+<!-- Se quiser acrescentar redes sociais, projetos ou outras informações, me avise! -->
+
+---
